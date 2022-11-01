@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1514140574 source:e:\dxball\dxball\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1530706258 source:c:\users\saikat\desktop\igraphicsupdated (1)\codeblocksupdated\imain.cpp
+	"iGraphics.h"
+
+1530705001 c:\users\saikat\desktop\igraphicsupdated (1)\codeblocksupdated\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"TextureList.h"
+
+1530705001 c:\users\saikat\desktop\igraphicsupdated (1)\codeblocksupdated\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530705001 c:\users\saikat\desktop\igraphicsupdated (1)\codeblocksupdated\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530705001 c:\users\saikat\desktop\igraphicsupdated (1)\codeblocksupdated\texturelist.h
+	"texture.h"
+
+1530705001 c:\users\saikat\desktop\igraphicsupdated (1)\codeblocksupdated\texture.h
+
